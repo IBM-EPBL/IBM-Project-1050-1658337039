@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background-image: url(/static/images/15276013_5570863.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+#form1 {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: fit-content;
+  height: fit-content;
+  padding: 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  border-radius: 8px;
+  background: transparent;
+}
